@@ -1,6 +1,7 @@
 # hello-world
 First
 
+new line
 Heading	
 # H1
 ## H2
@@ -12,9 +13,7 @@ Italic
 Blockquote
 > blockquote
 
-Ordered List	
 1. First item
-2. Second item
 3. Third item
 
 Unordered List	
@@ -26,6 +25,9 @@ Code	`code`
 
 Horizontal Rule	
 ---
+another new line
+
+
 
 Link	[title](https://www.example.com)
 
